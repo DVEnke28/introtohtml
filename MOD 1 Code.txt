@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>My Site</title>
+</head>
+<body>
+<u><i><b>Hello, World!</b><i/></u></br>
+<hr>
+3<sup>2</sup>=9</br>
+H<sub>2</sub>O<br>
+&euro;30<br>
+&pound;100<br>
+&infin;
+<!-- This is a comment -->
+</body>
+</html>
